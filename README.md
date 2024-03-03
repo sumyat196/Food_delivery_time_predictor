@@ -18,7 +18,6 @@ This repository contains code for predicting delivery times based on various fac
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -53,9 +52,3 @@ Various regression models including Linear Regression, Decision Tree Regression,
 ## Evaluation
 
 The performance of the trained models is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) Score.
-
-## Contributing
-
-Contributions to this project are welcome. You can contribute by opening an issue to report bugs, suggest improvements, or submit pull requests with enhancements.
-
-
