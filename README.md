@@ -12,7 +12,6 @@ This repository contains code for predicting delivery times based on various fac
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data Understanding](#data-understanding)
 - [Data Cleaning](#data-cleaning)
 - [Feature Engineering](#feature-engineering)
@@ -20,7 +19,6 @@ This repository contains code for predicting delivery times based on various fac
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
