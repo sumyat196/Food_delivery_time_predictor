@@ -32,24 +32,6 @@ To run the code in this repository, you need to have Python installed on your sy
 
 pip install -r requirements.txt
 
-
-## Usage
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/delivery-time-prediction.git
-
-
-2. Navigate to the project directory:
-
-cd delivery-time-prediction
-
-3. Run the main script:
-
-python main.py
-
-This will execute the entire pipeline including data cleaning, preprocessing, modeling, and evaluation.
-
 ## Data Understanding
 
 The dataset used for this project contains information about delivery orders including various features such as delivery person details, order date, weather conditions, road traffic density, etc.
